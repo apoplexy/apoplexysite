@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- https://www.apoplexy.org/latest_release.xml -->
+<latest_release>
+	<version>
+		<major>3</major>
+		<minor>15</minor>
+		<patch>0</patch>
+	</version>
+	<date>2021-05-01</date>
+</latest_release>
